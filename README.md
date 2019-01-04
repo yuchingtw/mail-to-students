@@ -16,5 +16,8 @@
     **至少應有 "student_no" 及 "student_name"欄位**  
     如有score欄位可選計算排名  
     也可以自訂欄位(如custom1)作個別訊息，會自動新增在信內
-2. 執行
-    >> python main.py
+
+2.  執行
+    ```
+    python3 main.py
+    ```
